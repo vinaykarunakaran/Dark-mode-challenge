@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { FontAwesomeIcon } from '@fontawesome/react-fontawesome';
-import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
+import { faMoon, faSun } from '@fontawesome/free-solid-svg-icons';
 import '../styles/_app.scss';
 import { ThemeProvider } from 'styled-components';
 import {lightMode, darkMode , GlobalStyles} from './themes.js';
